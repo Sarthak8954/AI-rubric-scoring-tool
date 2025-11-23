@@ -6,4 +6,4 @@ nltk
 vaderSentiment
 sentence-transformers
 python-multipart
-whisper
+openai-whisper
